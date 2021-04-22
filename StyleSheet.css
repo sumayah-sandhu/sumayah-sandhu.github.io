@@ -22,10 +22,12 @@ h1{
         color: black;
         text-align: center;
         padding: 12px;
-        text-decoration: none;
+        font-family: sans-serif;
+        text-decoration:none;
         font-size: 18px;
         line-height: 25px;
         border-radius: 4px;
+        font-weight: bold;
     }
 
         /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
@@ -33,17 +35,15 @@ h1{
             font-size: 25px;
             font-weight: bold;
         }
-
-      
-
-        /* Style the active/current link*/
-        .header a.active {
-            background-color: dodgerblue;
-            color: white;
-        }
-
+        
 /* Float the link section to the right */
 .header-right {
     float: right;
 }
 
+.purpose {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
