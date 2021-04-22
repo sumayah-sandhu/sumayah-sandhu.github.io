@@ -24,7 +24,7 @@ h1{
         padding: 12px;
         font-family: sans-serif;
         text-decoration:none;
-        font-size: 18px;
+        font-size: 30px;
         line-height: 25px;
         border-radius: 4px;
         font-weight: bold;
@@ -40,14 +40,14 @@ h1{
 .header-right {
     float: right;
 }
-img{
-
-    float: left; 
+.imgbox {
+    border: 5px solid #555;
+    float: left;
 }
 .purpose {
     width: 600px;
     border: 15px solid green;
-    padding: 50px;
+    padding: 100px;
     margin: 20px;
     float: left;
 }
