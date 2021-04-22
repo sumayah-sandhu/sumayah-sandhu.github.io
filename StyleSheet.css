@@ -58,3 +58,11 @@ img {
     font-size: 150%; 
 }
 
+.About {
+    width: 400px;
+    background-color:darkgray;
+    padding: 75px;
+    margin: 20px;
+    float: left;
+    font-size: 150%;
+}
