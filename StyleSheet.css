@@ -40,16 +40,29 @@ h1{
 .header-right {
     float: right;
 }
-.imgbox {
 
+img {
+    display: block;
+    padding-left: 5%;
+    padding-top: 5%;
+    height: 90%;
+    width: 90%;
+}
+.imgbox {
     background-color: lightgray;
-   
     float: left;
 }
 .purpose {
     width: 400px;
     border: 15px solid green;
-    padding: 100px;
+    padding: 75px;
+    margin: 20px;
+    float: left;
+}
+.intro {
+    width: 400px;
+    border: 15px solid green;
+    padding: 75px;
     margin: 20px;
     float: left;
 }
