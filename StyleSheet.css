@@ -41,11 +41,13 @@ h1{
     float: right;
 }
 .imgbox {
-    border: 5px solid #555;
+
+    background-color: lightgray;
+   
     float: left;
 }
 .purpose {
-    width: 600px;
+    width: 400px;
     border: 15px solid green;
     padding: 100px;
     margin: 20px;
