@@ -46,6 +46,9 @@ img {
     
 }
 
+.imgbox{
+    float: left; 
+}
 
 .purpose {
     width: 400px;
