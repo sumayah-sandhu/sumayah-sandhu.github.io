@@ -68,7 +68,7 @@ img {
 }
 
 .Database {
-    width: 100%;
+    width: 90%;
     background-color: darkgray;
     padding: 65px;
     margin: 20px;
@@ -81,10 +81,11 @@ img {
     background-color: green;
     border-radius: 10px;
     width: 600px; 
+    text-align: center;
 }
 
 .finmod {
-    width: 100%;
+    width: 90%;
     background-color: darkgray;
     padding: 65px;
     margin: 20px;
