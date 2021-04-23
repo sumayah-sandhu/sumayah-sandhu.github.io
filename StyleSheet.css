@@ -65,6 +65,8 @@ img {
     margin: 20px;
     float: left;
     font-size: 150%;
+    border: 10px white;
+
 }
 
 .Database {
