@@ -77,9 +77,8 @@ img {
     border: 10px solid green;
 }
 
-.Project {
+.projectheader {
     background-color: green;
     border-radius: 10px;
-    margin: 250px;
-    padding: 200px;
+    
 }
