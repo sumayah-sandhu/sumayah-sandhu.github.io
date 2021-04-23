@@ -47,7 +47,7 @@ img {
 }
 
 .purpose {
-    width: 400px;
+    width: 500px;
     border: 10px solid green;
     padding: 75px;
     margin: 20px;
@@ -56,7 +56,7 @@ img {
 }
 
 .About {
-    width: 90%;
+    width: 80%;
     background-color:darkgray;
     padding: 75px;
     margin: 20px;
@@ -67,7 +67,7 @@ img {
 }
 
 .Database {
-    width: 90%;
+    width: 80%;
     background-color: darkgray;
     padding: 65px;
     margin: 20px;
@@ -84,7 +84,7 @@ img {
 }
 
 .finmod {
-    width: 90%;
+    width: 80%;
     background-color: darkgray;
     padding: 65px;
     margin: 20px;
@@ -94,7 +94,7 @@ img {
 }
 
 .skills {
-    width: 90%;
+    width: 80%;
     background-color: darkgray;
     padding: 75px;
     margin: 20px;
