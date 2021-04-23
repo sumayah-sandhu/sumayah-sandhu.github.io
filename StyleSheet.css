@@ -76,3 +76,10 @@ img {
     font-size: 150%;
     border: 10px solid green;
 }
+
+.Project{
+
+    background-color: green;
+    border-radius: 20px; 
+
+}
