@@ -70,7 +70,7 @@ img {
 .Database {
     width: 600px;
     background-color: darkgray;
-    padding: 75px;
+    padding: 65px;
     margin: 20px;
     float: left;
     font-size: 150%;
@@ -80,5 +80,15 @@ img {
 .projectheader {
     background-color: green;
     border-radius: 10px;
-    
+    width: 500px; 
+}
+
+.finmod {
+    width: 600px;
+    background-color: darkgray;
+    padding: 65px;
+    margin: 20px;
+    float: left;
+    font-size: 150%;
+    border: 10px solid green;
 }
