@@ -66,3 +66,13 @@ img {
     float: left;
     font-size: 150%;
 }
+
+.Database {
+    width: 600px;
+    background-color: darkgray;
+    padding: 75px;
+    margin: 20px;
+    float: left;
+    font-size: 150%;
+    border: 10px solid green;
+}
